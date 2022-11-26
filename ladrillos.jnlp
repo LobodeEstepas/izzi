@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<jnlp spec="1.0+" codebase="https://github.com/LobodeEstepas/izzi.git" href="ladrillos.jnlp">
+<information>
+	<title>pruevas </title>
+</information>
+<resources>
+	<j2se version="5.0+"/>
+	<jar href="almacen.jar"/>
+</resources>
+
+<application-desc main-class="Almacen">
+</application-desc>
+
+<jnlp/>
